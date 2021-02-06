@@ -1,0 +1,4 @@
+##Embeds latest Daily Candle video and YouTube playlist
+## Change width and height for app.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLIILIEEz4vIBksQRuhxZkd30FL9ksomJt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
