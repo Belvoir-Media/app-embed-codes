@@ -1,0 +1,6 @@
+##Embeds the latest Sunday Club Scattered video and YouTube playlist.
+
+<iframe width="560" height="315" 
+src="https://www.youtube-nocookie.com/embed/videoseries?list=PLIILIEEz4vID118zpLzp9gmessPqdcKgZ" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
